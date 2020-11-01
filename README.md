@@ -87,6 +87,14 @@ who are the one's behind the transaction and th eonly ones with this power will 
 ## 7.Now's this is the output we get after running the function and we are able to get the quantity of the certain crop and for a certain person.
 ![alt text](https://github.com/TanishqChamoli/Food_supply_chain_management/blob/main/images/user_info_op.png?raw=true)
 
+# Some front end
+
+## 1.Display the demo result after quecuting the query of userInfo.
+![alt text](https://github.com/TanishqChamoli/Food_supply_chain_management/blob/main/images/query_diplay.png?raw=true)
+
+## 2.Display all the users from the databse.
+![alt text](https://github.com/TanishqChamoli/Food_supply_chain_management/blob/main/images/Screenshot%20(353).png?raw=true)
+
 # Authors
 
 ## Sonam Garg
