@@ -75,4 +75,7 @@ contract Food {
         crops.push(x);
         people[_farmer].current_quantity[_cropID]=_total_quantity;
     }
+    function userInfo(address _add,uint256 _cropID)public view returns(uint256){
+        return people[_add].current_quantity[_cropID];
+    }
 }
