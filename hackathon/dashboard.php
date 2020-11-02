@@ -19,7 +19,7 @@ if (empty($_SESSION['id'])) {
 
 <body class="sb-nav-fixed">
     <?php
-    require("admin_navbarvvvvvvv.php");
+    require("admin_navbar.php");
     require("sidenav.php")
     ?>
 
