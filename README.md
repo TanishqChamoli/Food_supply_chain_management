@@ -5,7 +5,7 @@ of the person and then map it with a hash address (BLOCKCHAIN WALLET ADDRESS) so
 all his information remains private and that address helps to create transparency. We make the use of the user’s details and public address of
 Block chain for this.  The person has to verify themselves from a government body over being able to fully use the site. We take current quantity
 of all the crops and crop added and then update it gets stored as transaction in block chain. To transfer the crops from one person to another,
-we take all the details such as :
+we take all the details such as : 
 
     Seller’s address
     Receiver’s address
